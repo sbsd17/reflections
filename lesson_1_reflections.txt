@@ -1,0 +1,23 @@
+
+The bug realy seemed studpid but it happens. 
+It bug like this always occurs and in a code of thousands and thousands of line going through each line can be problematique.
+These tools, FC and diff are really important and should be known.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+You can simply click and restore an old version of a file without any difficultty.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+You might forget to commit changes to your project and when you remember you might have already added new logical features to the project.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+This is because the multiple files are related and changing something in one will affect the others too. Other services like GoogleDocs treat each file separately as they are not related and don't need to be treated as related.
+
+How can you use the commands git log and git diff to view the history of files?
+we use the command git log to view different versions of the files and git diff with thet different files id to view the changes that occured in the files
+
+How might using version control make you more confident to make changes that could break something?
+You are always sure you can revert to a previous state where everything was working fine so you can make changes to your code more confidently
+
+
+Now that you have your workspace set up, what do you want to try using Git for?
+controlling versions of personal projects
