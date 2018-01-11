@@ -9,3 +9,8 @@ you can view the changes within the content of the staging area and the most rec
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 You might want to try out a new functionality or have another language for your project while still having the ability to access and show the original version. branches help with this by giving you the posibility to name your commits and move between different versions of your project
+
+How do the diagrams help you visualize the branch structure?
+it helps use easily visualize our git branch structure
+
+ 
