@@ -13,4 +13,5 @@ You might want to try out a new functionality or have another language for your 
 How do the diagrams help you visualize the branch structure?
 it helps use easily visualize our git branch structure
 
- 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+one main branch created having changes of both branches. we represent it that way for easy visualization 
