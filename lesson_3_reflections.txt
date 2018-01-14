@@ -6,3 +6,7 @@ You might be working on your local code and automatically pulling what is online
 
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 You fork a repository when you want to clone another repository into your account to be able to modify it. Clone is making a copy of a remote repository into our local working encvironment. Create a branch so we can modify it with out affecting our original code like for testing experimental functionalities. This can be done both locally and remotely.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+So as  to be able to view or merge with your work  later even if you cannot connect with the remote repository
+
