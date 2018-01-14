@@ -12,3 +12,6 @@ So as  to be able to view or merge with your work  later even if you cannot conn
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 without using git or git hub, you would have to zip all file, send to other team members and there will be a lot of inconsistences and version differences. Git together with github helps you collaborating efficiently and provise version control.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+when trying new features, new functionality while still having access and maintaining the main branch. Modifying the separate branch keeps the master safe from issues which might have been introduced with the changes done to the branch
